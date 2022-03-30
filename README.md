@@ -1,2 +1,3 @@
 # Innovotion-Trainning-program
-Among them, SVD low rank approximation is the method of image compression
+Among them, SVD_Test is the method of image compression we have done.
+3000_low contrast is the picture source.
